@@ -21,7 +21,7 @@ Dynamic presentation of extraction results of damaged buildings in large-scale p
 
 ![Uploading freecompress-11.gif…]()
      
-     Segmentation - imstance mask
+Segmentation - imstance mask
 
 
 # Environment Require
