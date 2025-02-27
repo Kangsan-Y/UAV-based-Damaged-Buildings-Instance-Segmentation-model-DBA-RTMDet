@@ -11,7 +11,13 @@ python demo/inference_damaged.py
 
 Before executing the program, you need to modify the paths related to the model, data, etc. You can refer to sh/slurm_train.sh and sh/slurm_inference.sh in the sh folder for details.
 
-# environment require
+# Dynamic Display of Results
+
+![freecompress-2](https://github.com/user-attachments/assets/9dd52dbc-3dd8-455e-9087-6f799e85cbfe)
+![Uploading freecompress-1.gif…]()
+
+
+# Environment Require
 
 # Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main  
