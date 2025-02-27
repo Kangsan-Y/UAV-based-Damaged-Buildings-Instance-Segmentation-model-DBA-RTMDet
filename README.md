@@ -17,8 +17,9 @@ Dynamic presentation of extraction results of damaged buildings in large-scale p
 
 ![freecompress-2](https://github.com/user-attachments/assets/9dd52dbc-3dd8-455e-9087-6f799e85cbfe)
      Detection - bounding box
-     
-     Segmentation - imstance mask
+![Uploading freecompress-1.gif…]()
+
+Segmentation - imstance mask
 
 
 # Environment Require
