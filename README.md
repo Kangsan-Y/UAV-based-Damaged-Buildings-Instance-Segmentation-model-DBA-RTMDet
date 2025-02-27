@@ -16,10 +16,10 @@ Before executing the program, you need to modify the paths related to the model,
 Dynamic presentation of extraction results of damaged buildings in large-scale post-earthquake scenarios.
 
 
-![freecompress-2](https://github.com/user-attachments/assets/9dd52dbc-3dd8-455e-9087-6f799e85cbfe)
+![Detection - bounding box](https://github.com/Kangsan-Y/UAV-based-Damaged-Buildings-Instance-Segmentation-model-DBA-RTMDet/blob/main/freecompress-2.gif)
      Detection - bounding box
 
-![Uploading freecompress-11.gif…]()
+![Segmentation - imstance mask](https://github.com/Kangsan-Y/UAV-based-Damaged-Buildings-Instance-Segmentation-model-DBA-RTMDet/blob/main/freecompress-1.gif)
      
 Segmentation - imstance mask
 
